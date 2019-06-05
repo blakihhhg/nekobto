@@ -1,0 +1,65 @@
+{
+  "name": "Nekobot",
+  "version": "2.25.0",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "superagent": "^5.0.5",
+    "string-similarity": "^3.0.0",
+    "table": "^5.3.3",
+    "array-sort": "^1.0.0",
+    "quick.hook": "^1.5.1",
+    "mal-scraper": "^2.6.2",
+    "random-puppy": "^1.1.0",
+    "figlet": "^1.2.2",
+    "quick.db": "^6.3.2",
+    "ffmpeg": "^0.0.4",
+    "forever-monitor": "^1.7.1",
+    "node-gyp": "^4.0.0",
+    "ms": "^2.1.1",
+    "fs": "^0.0.2",
+    "snekfetch": "^4.0.4",
+    "request": "^2.88.0",
+    "gif-search": "^2.0.1",
+    "libsodium-wrappers": "^0.7.4",
+    "canvas-constructor": "^3.0.0",
+    "path": "^0.12.7",
+    "canvas": "^2.5.0",
+    "simple-youtube-api": "^5.1.1",
+    "opusscript": "^0.0.6",
+    "ytdl-core": "^0.29.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "prism-media": "^1.0.2",
+    "node-opus": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "mathjs": "^5.10.3",
+    "parse-ms": "^2.0.0",
+    "discord-eco": "^0.0.10",
+    "sqlite": "^3.0.3",
+    "hastebin-gen": "^2.0.5",
+    "google": "^2.1.0",
+    "dblapi.js": "^2.3.0",
+    "minecraft": "^0.0.2",
+    "lavalink": "^2.6.1"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://mathocraft-kurokobot.glitch.me"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
